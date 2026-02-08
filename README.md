@@ -40,7 +40,7 @@ Installation 🛠️
 
 Clone the repository:
 
-git clone <git clone https://github.com/stratossal/todo_redux.git>
+git clone <https://github.com/stratossal/todo_redux.git>
 
 
 Install dependencies:
